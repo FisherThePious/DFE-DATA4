@@ -1,2 +1,4 @@
 # DFE-DATA4
-Test Repository
+
+This is the Test Repository that will be in use during the QA Data Engineering skills camp.
+
