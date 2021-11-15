@@ -10,9 +10,13 @@ first_number = int(var1)
 # else:
 #     print (var1, "is more than", var2)
 
-if first_number > 85:
-    print("Distinction")
-elif first_number >= 65 and first_number <= 84:
-    print("Pass")
+
+if first_number >= 0 and first_number <= 100:
+    if first_number > 85:
+        print("Distinction")
+    elif first_number >= 65 and first_number <= 84:
+        print("Pass")
+    else:
+        print("fail")
 else:
-    print("fail")
+    print ("You have entered an invalid score, please try again.")
