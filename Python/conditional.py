@@ -12,11 +12,11 @@ first_number = int(var1)
 
 
 if first_number >= 0 and first_number <= 100:
-    if first_number > 85:
+    if first_number >= 85:
         print("Distinction")
     elif first_number >= 65 and first_number <= 84:
         print("Pass")
     else:
-        print("fail")
+        print("Fail")
 else:
     print ("You have entered an invalid score, please try again.")
