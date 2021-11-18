@@ -14,4 +14,5 @@ class Student:
 John = Student("John", "21", 32, 50, 65)
 Jane = Student("Jane", "22", 12, 50, 43)
 
-print(John.average_mark())
+print(John.name, John.age, John.average_mark())
+print(Jane.name, Jane.age, Jane.average_mark()) 
