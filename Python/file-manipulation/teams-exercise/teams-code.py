@@ -4,7 +4,7 @@
 # print(str("=========================================\nWelcome to the Teams List editor\n========================================="))
 # print(str("This script should allow you to edit the teams.txt file and append an inputted team.")) 
 # while True:
-
+#
 #     teamfile = open("Python/file-manipulation/teams-exercise/teams.txt", "r+")
 #     chars = teamfile.readline()
 #     teamname = str(input("Please enter the name of the football team you wish to save:\n"))
