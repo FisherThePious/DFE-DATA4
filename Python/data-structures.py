@@ -23,13 +23,14 @@
 # print(example_dict.get("city"))
 # print(example_dict.get("age"))
 #-----------------------------------------------------------------------------------------------------
-leeds_lst = ["Seacroft", "Horsforth", "Meanwood", "Headingley", "Holbeck"]
-reverse = leeds_lst.reverse()
-print(leeds_lst)
-leeds_lst.append("Crossgates") #appends Crossgates to the end of the list.
-print(leeds_lst)
-leeds_lst.remove("Seacroft") #appends Crossgates to the end of the list.
-print(leeds_lst[0]) #prints the first entry in the index
-print(leeds_lst[-1]) #prints the last entry in the index
-print(leeds_lst)
-print(reverse)
+# leeds_lst = ["Seacroft", "Horsforth", "Meanwood", "Headingley", "Holbeck"]
+# reverse = leeds_lst.reverse()
+# print(leeds_lst)
+# leeds_lst.append("Crossgates") #appends Crossgates to the end of the list.
+# print(leeds_lst)
+# leeds_lst.remove("Seacroft") #appends Crossgates to the end of the list.
+# print(leeds_lst[0]) #prints the first entry in the index
+# print(leeds_lst[-1]) #prints the last entry in the index
+# print(leeds_lst)
+# print(reverse)
+#-----------------------------------------------------------------------------------------------------
